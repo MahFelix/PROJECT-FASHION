@@ -10,6 +10,7 @@ header {
     margin-top: 10px;
     position: absolute;
     margin-left: 700px;
+    cursor: pointer;
 }
 
 .tudo {
@@ -127,6 +128,7 @@ h1 {
     .icons {
         margin-top: 250px;
         margin-left: 350px;
+        cursor: pointer;
         
      }
    
@@ -152,6 +154,7 @@ h1 {
         margin-left: 90px;
         margin-top: 340px;
         align-items: center;
+        cursor: pointer;
 
     }
 
