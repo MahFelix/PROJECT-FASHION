@@ -103,3 +103,69 @@ h1 {
     margin-top: 500px;
     margin-left: 750px;
  }
+
+ @media screen and ( max-width: 600px) {
+    header {
+        display:none;
+    }
+
+    .ok {
+        display:none;
+    }
+
+    .tudo {
+        z-index: -1;
+        width: 500px;
+        opacity: 0.5;
+       margin-left: 0px;
+       margin-top: 10px;
+    
+    }
+
+    .icons {
+        margin-top: 300px;
+        margin-left: 250px;
+        
+     }
+   
+     .olhaele {
+       display: none;
+}
+
+    h1 {
+        width: 50px;
+        margin: 0;
+        color: aqua;
+    }
+
+    span {
+        width: 50px;
+    }
+
+    .view {
+        width: 100px;
+        margin: 0;
+        margin-left: 90px;
+        margin-top: 400px;
+        align-items: center;
+
+    }
+
+  .mobilegit {
+    width: 100px;
+    font-size: 50px;
+    margin-top: 10px;
+  }
+
+  span {
+    align-items: center;
+    margin-left:60px ;
+    color: black;
+  }
+
+  span:hover {
+    color: blueviolet;
+  }
+
+
+ }
